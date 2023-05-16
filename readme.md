@@ -3,6 +3,10 @@
 <!-- This is the link for more informations -->
 ## Tasks :+1:
 
-- [x]  first
-- [ ] secound
-- [] thrid
+- [ ] home screen
+- [ ] toDo-List Oberflaeche
+- [ ] ListView
+- [ ] eigenes Layout fuer ListView
+- [ ] auf SD-Karten oder intern Speicherplatz
+- [ ] ActionBar
+- [ ] Kontexmenu
