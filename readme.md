@@ -9,4 +9,4 @@
 - [ ] eigenes Layout fuer ListView
 - [ ] auf SD-Karten oder intern Speicherplatz
 - [ ] ActionBar
-- [ ] Kontexmenu
+- [ ] Kontexmenu oder Popup

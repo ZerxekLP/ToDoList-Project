@@ -25,6 +25,7 @@ public class ToDoActivity extends AppCompatActivity {
 
     public void addToDo(View view) {
         ll.add(new ToDoInput());
+        ap.notifyDataSetChanged();
 
     }
 }
